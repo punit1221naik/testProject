@@ -4,7 +4,7 @@
 
 
 def app_pods
- pod 'newProject', :path => '../TestProject/newProject/newProject.podspec', :binary => false
+ pod 'newProject', :path => 'TestProject/newProject.podspec', :binary => false
 end
 
 target 'CheckTheProject' do

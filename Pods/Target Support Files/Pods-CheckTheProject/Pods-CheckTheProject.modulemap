@@ -1,0 +1,6 @@
+framework module Pods_CheckTheProject {
+  umbrella header "Pods-CheckTheProject-umbrella.h"
+
+  export *
+  module * { export * }
+}

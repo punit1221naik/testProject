@@ -1,0 +1,16 @@
+PODS:
+  - newProject (0.0.1)
+
+DEPENDENCIES:
+  - newProject (from `TestProject/newProject.podspec`)
+
+EXTERNAL SOURCES:
+  newProject:
+    :path: TestProject/newProject.podspec
+
+SPEC CHECKSUMS:
+  newProject: f45659b0f359b03561d8391dc497c9aa2b699a04
+
+PODFILE CHECKSUM: a2fdcc474e277e032421e09b643404e04b737534
+
+COCOAPODS: 1.9.3
